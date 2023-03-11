@@ -1,0 +1,74 @@
+<resources>
+    <string name="app_name">Sight Reductions</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="LT">LT</string>
+    <string name="ZN">ZN</string>
+    <string name="CE">CE</string>
+    <string name="colon">:</string>
+    <string name="GHA_BODY">GHA</string>
+    <string-array name="PLUS_MINUS">
+        <item>+</item>
+        <item>-</item>
+    </string-array>
+    <string-array name="lon_array">
+        <item>E</item>
+        <item>W</item>
+    </string-array>
+    <string-array name="ON_OFF">
+        <item>On</item>
+        <item>Off</item>
+    </string-array>
+    <string-array name="lat_array">
+        <item>N</item>
+        <item>S</item>
+    </string-array>
+    <string-array name="CE_TYPE">
+        <item>Fast</item>
+        <item>Slow</item>
+    </string-array>
+    <string-array name="BRG_TYPE">
+        <item>G</item>
+        <item>M</item>
+    </string-array>
+    <string-array name="ZT_ARRAY">
+        <item>Z-11</item>
+        <item>Z-10</item>
+        <item>Z-9</item>
+        <item>Z-8</item>
+        <item>Z-7</item>
+        <item>Z-6</item>
+        <item>Z-5</item>
+        <item>Z-4</item>
+        <item>Z-3</item>
+        <item>Z-2</item>
+        <item>Z-1</item>
+        <item>UT</item>
+        <item>Z+1</item>
+        <item>Z+2</item>
+        <item>Z+3</item>
+        <item>Z+4</item>
+        <item>Z+5</item>
+        <item>Z+6</item>
+        <item>Z+7</item>
+        <item>Z+8</item>
+        <item>Z+9</item>
+        <item>Z+10</item>
+        <item>Z+11</item>
+    </string-array>
+    <string name="degree_sign">°</string>
+    <string name="minute_sign">\'</string>
+    <string name="DEC_BODY">Dec</string>
+    <string name="INC">INC</string>
+    <string name="CD">C-d</string>
+    <string name="CV">C-v</string>
+    <string name="Lon">Lon</string>
+    <string name="calc_azimuth">Calculate Azimuth</string>
+    <string name="Lat">Lat</string>
+    <string name="SA">Sext</string>
+    <string name="IE">IE</string>
+    <string name="DIP">Dip</string>
+    <string name="Adj">Adj</string>
+    <string name="calc_intercept">Calculate Intercept</string>
+</resources>
